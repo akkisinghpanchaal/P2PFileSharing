@@ -1,0 +1,979 @@
+2020-12-11 05:48:20: Peer 1001 is started
+2020-12-11 05:48:25: Peer 1001 established connection successfully
+2020-12-11 05:48:25: Peer 1001 attempts to send HANDSHAKE message to the Peer 1002
+2020-12-11 05:48:25: Peer 1001 Received HANDSHAKE from the Peer 1002
+2020-12-11 05:48:25: Peer 1001 HANDSHAKE acknowledged and TCP connection established.
+2020-12-11 05:48:26: Peer 1001 received a BITFIELD message from Peer 1002
+2020-12-11 05:48:26: Peer 1001 passing BITFIELD message to the Peer 1002
+2020-12-11 05:48:26: Peer 1001 received an INTERESTED message from Peer 1002
+2020-12-11 05:48:26: Peer 1001 passing UNCHOKE message to the Peer 1002
+2020-12-11 05:48:27: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:48:27: Peer 1001 transferring the piece 0 to the Peer 1002
+2020-12-11 05:48:27: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:48:27: Peer 1001 transferring the piece 1 to the Peer 1002
+2020-12-11 05:48:28: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:48:28: Peer 1001 transferring the piece 2 to the Peer 1002
+2020-12-11 05:48:29: Peer 1001 established connection successfully
+2020-12-11 05:48:29: Peer 1001 attempts to send HANDSHAKE message to the Peer 1003
+2020-12-11 05:48:29: Peer 1001 Received HANDSHAKE from the Peer 1003
+2020-12-11 05:48:29: Peer 1001 HANDSHAKE acknowledged and TCP connection established.
+2020-12-11 05:48:29: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:48:29: Peer 1001 transferring the piece 3 to the Peer 1002
+2020-12-11 05:48:29: Peer 1001 received a BITFIELD message from Peer 1003
+2020-12-11 05:48:29: Peer 1001 passing BITFIELD message to the Peer 1003
+2020-12-11 05:48:29: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:48:29: Peer 1001 transferring the piece 4 to the Peer 1002
+2020-12-11 05:48:29: Peer 1001 received an INTERESTED message from Peer 1003
+2020-12-11 05:48:29: Peer 1001 passing UNCHOKE message to the Peer 1003
+2020-12-11 05:48:29: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:48:29: Peer 1001 transferring the piece 5 to the Peer 1002
+2020-12-11 05:48:30: Peer 1001 received a REQUEST message from Peer 1003
+2020-12-11 05:48:30: Peer 1001 transferring the piece 0 to the Peer 1003
+2020-12-11 05:48:30: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:48:30: Peer 1001 transferring the piece 6 to the Peer 1002
+2020-12-11 05:48:30: Peer 1001 received a REQUEST message from Peer 1003
+2020-12-11 05:48:30: Peer 1001 transferring the piece 1 to the Peer 1003
+2020-12-11 05:48:30: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:48:30: Peer 1001 transferring the piece 7 to the Peer 1002
+2020-12-11 05:48:31: Peer 1001 received a REQUEST message from Peer 1003
+2020-12-11 05:48:31: Peer 1001 transferring the piece 2 to the Peer 1003
+2020-12-11 05:48:31: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:48:31: Peer 1001 transferring the piece 8 to the Peer 1002
+2020-12-11 05:48:31: Peer 1001 received a REQUEST message from Peer 1003
+2020-12-11 05:48:31: Peer 1001 transferring the piece 3 to the Peer 1003
+2020-12-11 05:48:31: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:48:31: Peer 1001 transferring the piece 9 to the Peer 1002
+2020-12-11 05:48:32: Peer 1001 received a REQUEST message from Peer 1003
+2020-12-11 05:48:32: Peer 1001 transferring the piece 4 to the Peer 1003
+2020-12-11 05:48:32: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:48:32: Peer 1001 transferring the piece 10 to the Peer 1002
+2020-12-11 05:48:32: Peer 1001 received a REQUEST message from Peer 1003
+2020-12-11 05:48:32: Peer 1001 transferring the piece 5 to the Peer 1003
+2020-12-11 05:48:32: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:48:32: Peer 1001 transferring the piece 11 to the Peer 1002
+2020-12-11 05:48:33: Peer 1001 established connection successfully
+2020-12-11 05:48:33: Peer 1001 attempts to send HANDSHAKE message to the Peer 1004
+2020-12-11 05:48:33: Peer 1001 Received HANDSHAKE from the Peer 1004
+2020-12-11 05:48:33: Peer 1001 HANDSHAKE acknowledged and TCP connection established.
+2020-12-11 05:48:33: Peer 1001 received a REQUEST message from Peer 1003
+2020-12-11 05:48:33: Peer 1001 transferring the piece 6 to the Peer 1003
+2020-12-11 05:48:33: Peer 1001 received a BITFIELD message from Peer 1004
+2020-12-11 05:48:33: Peer 1001 passing BITFIELD message to the Peer 1004
+2020-12-11 05:48:33: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:48:33: Peer 1001 transferring the piece 12 to the Peer 1002
+2020-12-11 05:48:33: Peer 1001 received a REQUEST message from Peer 1003
+2020-12-11 05:48:33: Peer 1001 transferring the piece 7 to the Peer 1003
+2020-12-11 05:48:33: Peer 1001 received an INTERESTED message from Peer 1004
+2020-12-11 05:48:33: Peer 1001 passing UNCHOKE message to the Peer 1004
+2020-12-11 05:48:33: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:48:33: Peer 1001 transferring the piece 13 to the Peer 1002
+2020-12-11 05:48:34: Peer 1001 received a REQUEST message from Peer 1003
+2020-12-11 05:48:34: Peer 1001 transferring the piece 8 to the Peer 1003
+2020-12-11 05:48:34: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:48:34: Peer 1001 transferring the piece 0 to the Peer 1004
+2020-12-11 05:48:34: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:48:34: Peer 1001 transferring the piece 14 to the Peer 1002
+2020-12-11 05:48:34: Peer 1001 received a REQUEST message from Peer 1003
+2020-12-11 05:48:34: Peer 1001 transferring the piece 9 to the Peer 1003
+2020-12-11 05:48:34: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:48:34: Peer 1001 transferring the piece 15 to the Peer 1002
+2020-12-11 05:48:34: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:48:34: Peer 1001 transferring the piece 1 to the Peer 1004
+2020-12-11 05:48:35: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:48:35: Peer 1001 transferring the piece 2 to the Peer 1004
+2020-12-11 05:48:35: Peer 1001 received a REQUEST message from Peer 1003
+2020-12-11 05:48:35: Peer 1001 transferring the piece 10 to the Peer 1003
+2020-12-11 05:48:35: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:48:35: Peer 1001 transferring the piece 16 to the Peer 1002
+2020-12-11 05:48:35: Peer 1001 established connection successfully
+2020-12-11 05:48:35: Peer 1001 attempts to send HANDSHAKE message to the Peer 1005
+2020-12-11 05:48:35: Peer 1001 Received HANDSHAKE from the Peer 1005
+2020-12-11 05:48:35: Peer 1001 HANDSHAKE acknowledged and TCP connection established.
+2020-12-11 05:48:36: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:48:36: Peer 1001 transferring the piece 3 to the Peer 1004
+2020-12-11 05:48:36: Peer 1001 received a REQUEST message from Peer 1003
+2020-12-11 05:48:36: Peer 1001 transferring the piece 11 to the Peer 1003
+2020-12-11 05:48:36: Peer 1001 received a BITFIELD message from Peer 1005
+2020-12-11 05:48:36: Peer 1001 passing BITFIELD message to the Peer 1005
+2020-12-11 05:48:36: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:48:36: Peer 1001 transferring the piece 17 to the Peer 1002
+2020-12-11 05:48:36: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:48:36: Peer 1001 transferring the piece 4 to the Peer 1004
+2020-12-11 05:48:36: Peer 1001 received a REQUEST message from Peer 1003
+2020-12-11 05:48:36: Peer 1001 transferring the piece 12 to the Peer 1003
+2020-12-11 05:48:36: Peer 1001 received an INTERESTED message from Peer 1005
+2020-12-11 05:48:36: Peer 1001 passing UNCHOKE message to the Peer 1005
+2020-12-11 05:48:36: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:48:36: Peer 1001 transferring the piece 18 to the Peer 1002
+2020-12-11 05:48:37: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:48:37: Peer 1001 transferring the piece 5 to the Peer 1004
+2020-12-11 05:48:37: Peer 1001 received a REQUEST message from Peer 1003
+2020-12-11 05:48:37: Peer 1001 transferring the piece 13 to the Peer 1003
+2020-12-11 05:48:37: Peer 1001 received a REQUEST message from Peer 1005
+2020-12-11 05:48:37: Peer 1001 transferring the piece 0 to the Peer 1005
+2020-12-11 05:48:37: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:48:37: Peer 1001 transferring the piece 19 to the Peer 1002
+2020-12-11 05:48:37: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:48:37: Peer 1001 transferring the piece 6 to the Peer 1004
+2020-12-11 05:48:37: Peer 1001 received a REQUEST message from Peer 1003
+2020-12-11 05:48:37: Peer 1001 transferring the piece 14 to the Peer 1003
+2020-12-11 05:48:37: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:48:37: Peer 1001 transferring the piece 20 to the Peer 1002
+2020-12-11 05:48:38: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:48:38: Peer 1001 transferring the piece 7 to the Peer 1004
+2020-12-11 05:48:38: Peer 1001 received a REQUEST message from Peer 1005
+2020-12-11 05:48:38: Peer 1001 transferring the piece 1 to the Peer 1005
+2020-12-11 05:48:38: Peer 1001 received a REQUEST message from Peer 1003
+2020-12-11 05:48:38: Peer 1001 transferring the piece 15 to the Peer 1003
+2020-12-11 05:48:38: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:48:38: Peer 1001 transferring the piece 21 to the Peer 1002
+2020-12-11 05:48:38: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:48:38: Peer 1001 transferring the piece 8 to the Peer 1004
+2020-12-11 05:48:38: Peer 1001 received a REQUEST message from Peer 1005
+2020-12-11 05:48:38: Peer 1001 transferring the piece 2 to the Peer 1005
+2020-12-11 05:48:38: Peer 1001 received a REQUEST message from Peer 1003
+2020-12-11 05:48:38: Peer 1001 transferring the piece 16 to the Peer 1003
+2020-12-11 05:48:38: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:48:38: Peer 1001 transferring the piece 22 to the Peer 1002
+2020-12-11 05:48:39: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:48:39: Peer 1001 transferring the piece 9 to the Peer 1004
+2020-12-11 05:48:39: Peer 1001 received a REQUEST message from Peer 1005
+2020-12-11 05:48:39: Peer 1001 transferring the piece 3 to the Peer 1005
+2020-12-11 05:48:39: Peer 1001 received a REQUEST message from Peer 1003
+2020-12-11 05:48:39: Peer 1001 transferring the piece 17 to the Peer 1003
+2020-12-11 05:48:39: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:48:39: Peer 1001 transferring the piece 23 to the Peer 1002
+2020-12-11 05:48:39: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:48:39: Peer 1001 transferring the piece 10 to the Peer 1004
+2020-12-11 05:48:39: Peer 1001 received a REQUEST message from Peer 1005
+2020-12-11 05:48:39: Peer 1001 transferring the piece 4 to the Peer 1005
+2020-12-11 05:48:39: Peer 1001 received a REQUEST message from Peer 1003
+2020-12-11 05:48:39: Peer 1001 transferring the piece 18 to the Peer 1003
+2020-12-11 05:48:39: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:48:39: Peer 1001 transferring the piece 24 to the Peer 1002
+2020-12-11 05:48:40: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:48:40: Peer 1001 transferring the piece 11 to the Peer 1004
+2020-12-11 05:48:40: Peer 1001 received a REQUEST message from Peer 1003
+2020-12-11 05:48:40: Peer 1001 transferring the piece 19 to the Peer 1003
+2020-12-11 05:48:40: Peer 1001 received a REQUEST message from Peer 1005
+2020-12-11 05:48:40: Peer 1001 transferring the piece 5 to the Peer 1005
+2020-12-11 05:48:40: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:48:40: Peer 1001 transferring the piece 25 to the Peer 1002
+2020-12-11 05:48:40: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:48:40: Peer 1001 transferring the piece 12 to the Peer 1004
+2020-12-11 05:48:40: Peer 1001 received a REQUEST message from Peer 1003
+2020-12-11 05:48:40: Peer 1001 transferring the piece 20 to the Peer 1003
+2020-12-11 05:48:40: Peer 1001 received a REQUEST message from Peer 1005
+2020-12-11 05:48:40: Peer 1001 transferring the piece 6 to the Peer 1005
+2020-12-11 05:48:40: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:48:40: Peer 1001 transferring the piece 26 to the Peer 1002
+2020-12-11 05:48:40: Peer 1001 established connection successfully
+2020-12-11 05:48:40: Peer 1001 attempts to send HANDSHAKE message to the Peer 1007
+2020-12-11 05:48:40: Peer 1001 Received HANDSHAKE from the Peer 1007
+2020-12-11 05:48:40: Peer 1001 HANDSHAKE acknowledged and TCP connection established.
+2020-12-11 05:48:41: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:48:41: Peer 1001 transferring the piece 13 to the Peer 1004
+2020-12-11 05:48:41: Peer 1001 received a BITFIELD message from Peer 1007
+2020-12-11 05:48:41: Peer 1001 passing BITFIELD message to the Peer 1007
+2020-12-11 05:48:41: Peer 1001 received a REQUEST message from Peer 1003
+2020-12-11 05:48:41: Peer 1001 transferring the piece 21 to the Peer 1003
+2020-12-11 05:48:41: Peer 1001 received a REQUEST message from Peer 1005
+2020-12-11 05:48:41: Peer 1001 transferring the piece 7 to the Peer 1005
+2020-12-11 05:48:41: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:48:41: Peer 1001 transferring the piece 27 to the Peer 1002
+2020-12-11 05:48:41: Peer 1001 picked the neighbours as preferred: 1005, 1004, 1003, 
+2020-12-11 05:48:41: Peer 1001 received an INTERESTED message from Peer 1007
+2020-12-11 05:48:41: Peer 1001 passing CHOKE message to the Peer 1007
+2020-12-11 05:48:41: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:48:41: Peer 1001 transferring the piece 14 to the Peer 1004
+2020-12-11 05:48:41: Peer 1001 received a REQUEST message from Peer 1003
+2020-12-11 05:48:41: Peer 1001 transferring the piece 22 to the Peer 1003
+2020-12-11 05:48:41: Peer 1001 received a REQUEST message from Peer 1005
+2020-12-11 05:48:41: Peer 1001 transferring the piece 8 to the Peer 1005
+2020-12-11 05:48:41: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:48:41: Peer 1001 transferring the piece 28 to the Peer 1002
+2020-12-11 05:48:41: Peer 1001 passing CHOKE message to the Peer 1002
+2020-12-11 05:48:42: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:48:42: Peer 1001 transferring the piece 15 to the Peer 1004
+2020-12-11 05:48:42: Peer 1001 received a REQUEST message from Peer 1003
+2020-12-11 05:48:42: Peer 1001 transferring the piece 23 to the Peer 1003
+2020-12-11 05:48:42: Peer 1001 received a REQUEST message from Peer 1005
+2020-12-11 05:48:42: Peer 1001 transferring the piece 9 to the Peer 1005
+2020-12-11 05:48:42: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:48:42: Peer 1001 transferring the piece 16 to the Peer 1004
+2020-12-11 05:48:42: Peer 1001 received a REQUEST message from Peer 1003
+2020-12-11 05:48:42: Peer 1001 transferring the piece 24 to the Peer 1003
+2020-12-11 05:48:42: Peer 1001 received a REQUEST message from Peer 1005
+2020-12-11 05:48:42: Peer 1001 transferring the piece 10 to the Peer 1005
+2020-12-11 05:48:42: Peer 1001 established connection successfully
+2020-12-11 05:48:42: Peer 1001 attempts to send HANDSHAKE message to the Peer 1008
+2020-12-11 05:48:42: Peer 1001 Received HANDSHAKE from the Peer 1008
+2020-12-11 05:48:42: Peer 1001 HANDSHAKE acknowledged and TCP connection established.
+2020-12-11 05:48:43: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:48:43: Peer 1001 transferring the piece 17 to the Peer 1004
+2020-12-11 05:48:43: Peer 1001 received a REQUEST message from Peer 1003
+2020-12-11 05:48:43: Peer 1001 transferring the piece 25 to the Peer 1003
+2020-12-11 05:48:43: Peer 1001 received a BITFIELD message from Peer 1008
+2020-12-11 05:48:43: Peer 1001 passing BITFIELD message to the Peer 1008
+2020-12-11 05:48:43: Peer 1001 received a REQUEST message from Peer 1005
+2020-12-11 05:48:43: Peer 1001 transferring the piece 11 to the Peer 1005
+2020-12-11 05:48:43: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:48:43: Peer 1001 transferring the piece 18 to the Peer 1004
+2020-12-11 05:48:43: Peer 1001 received a REQUEST message from Peer 1003
+2020-12-11 05:48:43: Peer 1001 transferring the piece 26 to the Peer 1003
+2020-12-11 05:48:43: Peer 1001 received an INTERESTED message from Peer 1008
+2020-12-11 05:48:43: Peer 1001 passing CHOKE message to the Peer 1008
+2020-12-11 05:48:43: Peer 1001 received a REQUEST message from Peer 1005
+2020-12-11 05:48:43: Peer 1001 transferring the piece 12 to the Peer 1005
+2020-12-11 05:48:44: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:48:44: Peer 1001 transferring the piece 19 to the Peer 1004
+2020-12-11 05:48:44: Peer 1001 received a REQUEST message from Peer 1003
+2020-12-11 05:48:44: Peer 1001 transferring the piece 27 to the Peer 1003
+2020-12-11 05:48:44: Peer 1001 received a REQUEST message from Peer 1005
+2020-12-11 05:48:44: Peer 1001 transferring the piece 13 to the Peer 1005
+2020-12-11 05:48:44: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:48:44: Peer 1001 transferring the piece 20 to the Peer 1004
+2020-12-11 05:48:44: Peer 1001 received a REQUEST message from Peer 1003
+2020-12-11 05:48:44: Peer 1001 transferring the piece 28 to the Peer 1003
+2020-12-11 05:48:44: Peer 1001 received a REQUEST message from Peer 1005
+2020-12-11 05:48:44: Peer 1001 transferring the piece 14 to the Peer 1005
+2020-12-11 05:48:45: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:48:45: Peer 1001 transferring the piece 21 to the Peer 1004
+2020-12-11 05:48:45: Peer 1001 received a REQUEST message from Peer 1003
+2020-12-11 05:48:45: Peer 1001 transferring the piece 29 to the Peer 1003
+2020-12-11 05:48:45: Peer 1001 received a REQUEST message from Peer 1005
+2020-12-11 05:48:45: Peer 1001 transferring the piece 15 to the Peer 1005
+2020-12-11 05:48:45: Peer 1001 established connection successfully
+2020-12-11 05:48:45: Peer 1001 attempts to send HANDSHAKE message to the Peer 1009
+2020-12-11 05:48:45: Peer 1001 Received HANDSHAKE from the Peer 1009
+2020-12-11 05:48:45: Peer 1001 HANDSHAKE acknowledged and TCP connection established.
+2020-12-11 05:48:45: Peer 1001 received a REQUEST message from Peer 1005
+2020-12-11 05:48:45: Peer 1001 transferring the piece 16 to the Peer 1005
+2020-12-11 05:48:45: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:48:45: Peer 1001 transferring the piece 22 to the Peer 1004
+2020-12-11 05:48:45: Peer 1001 received a REQUEST message from Peer 1003
+2020-12-11 05:48:45: Peer 1001 transferring the piece 30 to the Peer 1003
+2020-12-11 05:48:45: Peer 1001 received a BITFIELD message from Peer 1009
+2020-12-11 05:48:45: Peer 1001 passing BITFIELD message to the Peer 1009
+2020-12-11 05:48:46: Peer 1001 received a REQUEST message from Peer 1005
+2020-12-11 05:48:46: Peer 1001 transferring the piece 17 to the Peer 1005
+2020-12-11 05:48:46: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:48:46: Peer 1001 transferring the piece 23 to the Peer 1004
+2020-12-11 05:48:46: Peer 1001 received an INTERESTED message from Peer 1009
+2020-12-11 05:48:46: Peer 1001 passing CHOKE message to the Peer 1009
+2020-12-11 05:48:46: Peer 1001 received a REQUEST message from Peer 1003
+2020-12-11 05:48:46: Peer 1001 transferring the piece 31 to the Peer 1003
+2020-12-11 05:48:46: Peer 1001 is passing UNCHOKE message to the remote Peer 1009
+2020-12-11 05:48:46: Peer 1001 passing a HAVE message to the Peer 1009
+2020-12-11 05:48:46: Peer 1001 is passing UNCHOKE message to the remote Peer 1008
+2020-12-11 05:48:46: Peer 1001 passing a HAVE message to the Peer 1008
+2020-12-11 05:48:46: Peer 1001 is passing UNCHOKE message to the remote Peer 1007
+2020-12-11 05:48:46: Peer 1001 passing a HAVE message to the Peer 1007
+2020-12-11 05:48:46: Peer 1001 picked the neighbours as preferred: 1009, 1008, 1007, 
+2020-12-11 05:48:46: Peer 1001 received a REQUEST message from Peer 1005
+2020-12-11 05:48:46: Peer 1001 transferring the piece 18 to the Peer 1005
+2020-12-11 05:48:46: Peer 1001 passing CHOKE message to the Peer 1005
+2020-12-11 05:48:46: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:48:46: Peer 1001 transferring the piece 24 to the Peer 1004
+2020-12-11 05:48:46: Peer 1001 passing CHOKE message to the Peer 1004
+2020-12-11 05:48:46: Peer 1001 received an INTERESTED message from Peer 1009
+2020-12-11 05:48:46: Peer 1001 passing UNCHOKE message to the Peer 1009
+2020-12-11 05:48:46: Peer 1001 received a REQUEST message from Peer 1003
+2020-12-11 05:48:46: Peer 1001 transferring the piece 32 to the Peer 1003
+2020-12-11 05:48:46: Peer 1001 passing CHOKE message to the Peer 1003
+2020-12-11 05:48:46: Peer 1001 received an INTERESTED message from Peer 1007
+2020-12-11 05:48:46: Peer 1001 passing UNCHOKE message to the Peer 1007
+2020-12-11 05:48:47: Peer 1001 received an INTERESTED message from Peer 1008
+2020-12-11 05:48:47: Peer 1001 passing UNCHOKE message to the Peer 1008
+2020-12-11 05:48:47: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:48:47: Peer 1001 transferring the piece 0 to the Peer 1009
+2020-12-11 05:48:47: Peer 1001 received a REQUEST message from Peer 1007
+2020-12-11 05:48:47: Peer 1001 transferring the piece 10 to the Peer 1007
+2020-12-11 05:48:47: Peer 1001 received a REQUEST message from Peer 1008
+2020-12-11 05:48:47: Peer 1001 transferring the piece 7 to the Peer 1008
+2020-12-11 05:48:47: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:48:47: Peer 1001 transferring the piece 1 to the Peer 1009
+2020-12-11 05:48:47: Peer 1001 received a REQUEST message from Peer 1007
+2020-12-11 05:48:47: Peer 1001 transferring the piece 11 to the Peer 1007
+2020-12-11 05:48:48: Peer 1001 received a REQUEST message from Peer 1008
+2020-12-11 05:48:48: Peer 1001 transferring the piece 8 to the Peer 1008
+2020-12-11 05:48:48: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:48:48: Peer 1001 transferring the piece 2 to the Peer 1009
+2020-12-11 05:48:48: Peer 1001 received a REQUEST message from Peer 1007
+2020-12-11 05:48:48: Peer 1001 transferring the piece 12 to the Peer 1007
+2020-12-11 05:48:48: Peer 1001 received a REQUEST message from Peer 1008
+2020-12-11 05:48:48: Peer 1001 transferring the piece 9 to the Peer 1008
+2020-12-11 05:48:48: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:48:48: Peer 1001 transferring the piece 3 to the Peer 1009
+2020-12-11 05:48:48: Peer 1001 received a REQUEST message from Peer 1007
+2020-12-11 05:48:48: Peer 1001 transferring the piece 13 to the Peer 1007
+2020-12-11 05:48:49: Peer 1001 received a REQUEST message from Peer 1007
+2020-12-11 05:48:49: Peer 1001 transferring the piece 14 to the Peer 1007
+2020-12-11 05:48:49: Peer 1001 received a REQUEST message from Peer 1008
+2020-12-11 05:48:49: Peer 1001 transferring the piece 10 to the Peer 1008
+2020-12-11 05:48:49: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:48:49: Peer 1001 transferring the piece 4 to the Peer 1009
+2020-12-11 05:48:49: Peer 1001 received a REQUEST message from Peer 1007
+2020-12-11 05:48:49: Peer 1001 transferring the piece 15 to the Peer 1007
+2020-12-11 05:48:49: Peer 1001 received a REQUEST message from Peer 1008
+2020-12-11 05:48:49: Peer 1001 transferring the piece 11 to the Peer 1008
+2020-12-11 05:48:49: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:48:49: Peer 1001 transferring the piece 5 to the Peer 1009
+2020-12-11 05:48:50: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:48:50: Peer 1001 transferring the piece 6 to the Peer 1009
+2020-12-11 05:48:50: Peer 1001 received a REQUEST message from Peer 1007
+2020-12-11 05:48:50: Peer 1001 transferring the piece 16 to the Peer 1007
+2020-12-11 05:48:50: Peer 1001 received a REQUEST message from Peer 1008
+2020-12-11 05:48:50: Peer 1001 transferring the piece 12 to the Peer 1008
+2020-12-11 05:48:50: Peer 1001 received a REQUEST message from Peer 1007
+2020-12-11 05:48:50: Peer 1001 transferring the piece 17 to the Peer 1007
+2020-12-11 05:48:50: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:48:50: Peer 1001 transferring the piece 7 to the Peer 1009
+2020-12-11 05:48:50: Peer 1001 received a REQUEST message from Peer 1008
+2020-12-11 05:48:50: Peer 1001 transferring the piece 13 to the Peer 1008
+2020-12-11 05:48:51: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:48:51: Peer 1001 transferring the piece 8 to the Peer 1009
+2020-12-11 05:48:51: Peer 1001 received a REQUEST message from Peer 1007
+2020-12-11 05:48:51: Peer 1001 transferring the piece 18 to the Peer 1007
+2020-12-11 05:48:51: Peer 1001 received a REQUEST message from Peer 1008
+2020-12-11 05:48:51: Peer 1001 transferring the piece 14 to the Peer 1008
+2020-12-11 05:48:51: Peer 1001 picked the neighbours as preferred: 1009, 1008, 1007, 
+2020-12-11 05:48:51: Peer 1001 setting the optimistically unchoked neighbor to 1004
+2020-12-11 05:48:51: Peer 1001 is passing UNCHOKE message to the remote Peer 1004
+2020-12-11 05:48:51: Peer 1001 passing a HAVE message to the Peer 1004
+2020-12-11 05:48:51: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:48:51: Peer 1001 transferring the piece 9 to the Peer 1009
+2020-12-11 05:48:51: Peer 1001 received a REQUEST message from Peer 1007
+2020-12-11 05:48:51: Peer 1001 transferring the piece 19 to the Peer 1007
+2020-12-11 05:48:51: Peer 1001 received an INTERESTED message from Peer 1004
+2020-12-11 05:48:51: Peer 1001 passing UNCHOKE message to the Peer 1004
+2020-12-11 05:48:51: Peer 1001 received a REQUEST message from Peer 1008
+2020-12-11 05:48:51: Peer 1001 transferring the piece 15 to the Peer 1008
+2020-12-11 05:48:52: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:48:52: Peer 1001 transferring the piece 10 to the Peer 1009
+2020-12-11 05:48:52: Peer 1001 received a REQUEST message from Peer 1007
+2020-12-11 05:48:52: Peer 1001 transferring the piece 20 to the Peer 1007
+2020-12-11 05:48:52: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:48:52: Peer 1001 transferring the piece 27 to the Peer 1004
+2020-12-11 05:48:52: Peer 1001 received a REQUEST message from Peer 1008
+2020-12-11 05:48:52: Peer 1001 transferring the piece 16 to the Peer 1008
+2020-12-11 05:48:52: Peer 1001 received a REQUEST message from Peer 1007
+2020-12-11 05:48:52: Peer 1001 transferring the piece 21 to the Peer 1007
+2020-12-11 05:48:52: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:48:52: Peer 1001 transferring the piece 11 to the Peer 1009
+2020-12-11 05:48:52: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:48:52: Peer 1001 transferring the piece 28 to the Peer 1004
+2020-12-11 05:48:52: Peer 1001 received a REQUEST message from Peer 1008
+2020-12-11 05:48:52: Peer 1001 transferring the piece 17 to the Peer 1008
+2020-12-11 05:48:53: Peer 1001 received a REQUEST message from Peer 1007
+2020-12-11 05:48:53: Peer 1001 transferring the piece 22 to the Peer 1007
+2020-12-11 05:48:53: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:48:53: Peer 1001 transferring the piece 12 to the Peer 1009
+2020-12-11 05:48:53: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:48:53: Peer 1001 transferring the piece 29 to the Peer 1004
+2020-12-11 05:48:53: Peer 1001 received a REQUEST message from Peer 1008
+2020-12-11 05:48:53: Peer 1001 transferring the piece 18 to the Peer 1008
+2020-12-11 05:48:53: Peer 1001 received a REQUEST message from Peer 1007
+2020-12-11 05:48:53: Peer 1001 transferring the piece 23 to the Peer 1007
+2020-12-11 05:48:53: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:48:53: Peer 1001 transferring the piece 30 to the Peer 1004
+2020-12-11 05:48:53: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:48:53: Peer 1001 transferring the piece 13 to the Peer 1009
+2020-12-11 05:48:53: Peer 1001 received a REQUEST message from Peer 1008
+2020-12-11 05:48:53: Peer 1001 transferring the piece 19 to the Peer 1008
+2020-12-11 05:48:54: Peer 1001 received a REQUEST message from Peer 1007
+2020-12-11 05:48:54: Peer 1001 transferring the piece 24 to the Peer 1007
+2020-12-11 05:48:54: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:48:54: Peer 1001 transferring the piece 31 to the Peer 1004
+2020-12-11 05:48:54: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:48:54: Peer 1001 transferring the piece 14 to the Peer 1009
+2020-12-11 05:48:54: Peer 1001 received a REQUEST message from Peer 1008
+2020-12-11 05:48:54: Peer 1001 transferring the piece 20 to the Peer 1008
+2020-12-11 05:48:54: Peer 1001 received a REQUEST message from Peer 1007
+2020-12-11 05:48:54: Peer 1001 transferring the piece 25 to the Peer 1007
+2020-12-11 05:48:54: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:48:54: Peer 1001 transferring the piece 32 to the Peer 1004
+2020-12-11 05:48:54: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:48:54: Peer 1001 transferring the piece 15 to the Peer 1009
+2020-12-11 05:48:54: Peer 1001 received a REQUEST message from Peer 1008
+2020-12-11 05:48:54: Peer 1001 transferring the piece 21 to the Peer 1008
+2020-12-11 05:48:55: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:48:55: Peer 1001 transferring the piece 33 to the Peer 1004
+2020-12-11 05:48:55: Peer 1001 received a REQUEST message from Peer 1007
+2020-12-11 05:48:55: Peer 1001 transferring the piece 26 to the Peer 1007
+2020-12-11 05:48:55: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:48:55: Peer 1001 transferring the piece 16 to the Peer 1009
+2020-12-11 05:48:55: Peer 1001 received a REQUEST message from Peer 1008
+2020-12-11 05:48:55: Peer 1001 transferring the piece 22 to the Peer 1008
+2020-12-11 05:48:55: Peer 1001 received a REQUEST message from Peer 1008
+2020-12-11 05:48:55: Peer 1001 transferring the piece 23 to the Peer 1008
+2020-12-11 05:48:55: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:48:55: Peer 1001 transferring the piece 34 to the Peer 1004
+2020-12-11 05:48:55: Peer 1001 received a REQUEST message from Peer 1007
+2020-12-11 05:48:55: Peer 1001 transferring the piece 27 to the Peer 1007
+2020-12-11 05:48:55: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:48:55: Peer 1001 transferring the piece 17 to the Peer 1009
+2020-12-11 05:48:56: Peer 1001 picked the neighbours as preferred: 1009, 1008, 1007, 
+2020-12-11 05:48:56: Peer 1001 received a REQUEST message from Peer 1008
+2020-12-11 05:48:56: Peer 1001 transferring the piece 24 to the Peer 1008
+2020-12-11 05:48:56: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:48:56: Peer 1001 transferring the piece 35 to the Peer 1004
+2020-12-11 05:48:56: Peer 1001 received a REQUEST message from Peer 1007
+2020-12-11 05:48:56: Peer 1001 transferring the piece 28 to the Peer 1007
+2020-12-11 05:48:56: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:48:56: Peer 1001 transferring the piece 18 to the Peer 1009
+2020-12-11 05:48:56: Peer 1001 received a REQUEST message from Peer 1008
+2020-12-11 05:48:56: Peer 1001 transferring the piece 25 to the Peer 1008
+2020-12-11 05:48:56: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:48:56: Peer 1001 transferring the piece 36 to the Peer 1004
+2020-12-11 05:48:56: Peer 1001 received a REQUEST message from Peer 1007
+2020-12-11 05:48:56: Peer 1001 transferring the piece 29 to the Peer 1007
+2020-12-11 05:48:56: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:48:56: Peer 1001 transferring the piece 19 to the Peer 1009
+2020-12-11 05:48:57: Peer 1001 received a REQUEST message from Peer 1008
+2020-12-11 05:48:57: Peer 1001 transferring the piece 26 to the Peer 1008
+2020-12-11 05:48:57: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:48:57: Peer 1001 transferring the piece 37 to the Peer 1004
+2020-12-11 05:48:57: Peer 1001 received a REQUEST message from Peer 1007
+2020-12-11 05:48:57: Peer 1001 transferring the piece 30 to the Peer 1007
+2020-12-11 05:48:57: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:48:57: Peer 1001 transferring the piece 20 to the Peer 1009
+2020-12-11 05:48:57: Peer 1001 received a REQUEST message from Peer 1008
+2020-12-11 05:48:57: Peer 1001 transferring the piece 27 to the Peer 1008
+2020-12-11 05:48:57: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:48:57: Peer 1001 transferring the piece 38 to the Peer 1004
+2020-12-11 05:48:57: Peer 1001 received a REQUEST message from Peer 1007
+2020-12-11 05:48:57: Peer 1001 transferring the piece 31 to the Peer 1007
+2020-12-11 05:48:57: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:48:57: Peer 1001 transferring the piece 21 to the Peer 1009
+2020-12-11 05:48:58: Peer 1001 received a REQUEST message from Peer 1008
+2020-12-11 05:48:58: Peer 1001 transferring the piece 28 to the Peer 1008
+2020-12-11 05:48:58: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:48:58: Peer 1001 transferring the piece 39 to the Peer 1004
+2020-12-11 05:48:58: Peer 1001 received a REQUEST message from Peer 1007
+2020-12-11 05:48:58: Peer 1001 transferring the piece 32 to the Peer 1007
+2020-12-11 05:48:58: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:48:58: Peer 1001 transferring the piece 22 to the Peer 1009
+2020-12-11 05:48:58: Peer 1001 received a REQUEST message from Peer 1008
+2020-12-11 05:48:58: Peer 1001 transferring the piece 29 to the Peer 1008
+2020-12-11 05:48:58: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:48:58: Peer 1001 transferring the piece 40 to the Peer 1004
+2020-12-11 05:48:58: Peer 1001 received a REQUEST message from Peer 1007
+2020-12-11 05:48:58: Peer 1001 transferring the piece 33 to the Peer 1007
+2020-12-11 05:48:58: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:48:58: Peer 1001 transferring the piece 23 to the Peer 1009
+2020-12-11 05:48:59: Peer 1001 received a REQUEST message from Peer 1008
+2020-12-11 05:48:59: Peer 1001 transferring the piece 30 to the Peer 1008
+2020-12-11 05:48:59: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:48:59: Peer 1001 transferring the piece 41 to the Peer 1004
+2020-12-11 05:48:59: Peer 1001 received a REQUEST message from Peer 1007
+2020-12-11 05:48:59: Peer 1001 transferring the piece 34 to the Peer 1007
+2020-12-11 05:48:59: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:48:59: Peer 1001 transferring the piece 24 to the Peer 1009
+2020-12-11 05:48:59: Peer 1001 received a REQUEST message from Peer 1008
+2020-12-11 05:48:59: Peer 1001 transferring the piece 31 to the Peer 1008
+2020-12-11 05:48:59: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:48:59: Peer 1001 transferring the piece 42 to the Peer 1004
+2020-12-11 05:48:59: Peer 1001 received a REQUEST message from Peer 1007
+2020-12-11 05:48:59: Peer 1001 transferring the piece 35 to the Peer 1007
+2020-12-11 05:48:59: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:48:59: Peer 1001 transferring the piece 25 to the Peer 1009
+2020-12-11 05:49:00: Peer 1001 received a REQUEST message from Peer 1008
+2020-12-11 05:49:00: Peer 1001 transferring the piece 32 to the Peer 1008
+2020-12-11 05:49:00: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:49:00: Peer 1001 transferring the piece 43 to the Peer 1004
+2020-12-11 05:49:00: Peer 1001 received a REQUEST message from Peer 1007
+2020-12-11 05:49:00: Peer 1001 transferring the piece 36 to the Peer 1007
+2020-12-11 05:49:00: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:49:00: Peer 1001 transferring the piece 26 to the Peer 1009
+2020-12-11 05:49:00: Peer 1001 received a REQUEST message from Peer 1008
+2020-12-11 05:49:00: Peer 1001 transferring the piece 33 to the Peer 1008
+2020-12-11 05:49:00: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:49:00: Peer 1001 transferring the piece 44 to the Peer 1004
+2020-12-11 05:49:00: Peer 1001 received a REQUEST message from Peer 1007
+2020-12-11 05:49:00: Peer 1001 transferring the piece 37 to the Peer 1007
+2020-12-11 05:49:00: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:49:00: Peer 1001 transferring the piece 27 to the Peer 1009
+2020-12-11 05:49:01: Peer 1001 picked the neighbours as preferred: 1009, 1008, 1007, 
+2020-12-11 05:49:01: Peer 1001 setting the optimistically unchoked neighbor to 1002
+2020-12-11 05:49:01: Peer 1001 is passing UNCHOKE message to the remote Peer 1002
+2020-12-11 05:49:01: Peer 1001 passing a HAVE message to the Peer 1002
+2020-12-11 05:49:01: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:49:01: Peer 1001 transferring the piece 28 to the Peer 1009
+2020-12-11 05:49:01: Peer 1001 received a REQUEST message from Peer 1008
+2020-12-11 05:49:01: Peer 1001 transferring the piece 34 to the Peer 1008
+2020-12-11 05:49:01: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:49:01: Peer 1001 transferring the piece 45 to the Peer 1004
+2020-12-11 05:49:01: Peer 1001 passing CHOKE message to the Peer 1004
+2020-12-11 05:49:01: Peer 1001 received a REQUEST message from Peer 1007
+2020-12-11 05:49:01: Peer 1001 transferring the piece 38 to the Peer 1007
+2020-12-11 05:49:01: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:49:01: Peer 1001 transferring the piece 29 to the Peer 1009
+2020-12-11 05:49:01: Peer 1001 received a REQUEST message from Peer 1008
+2020-12-11 05:49:01: Peer 1001 transferring the piece 35 to the Peer 1008
+2020-12-11 05:49:01: Peer 1001 received a REQUEST message from Peer 1007
+2020-12-11 05:49:01: Peer 1001 transferring the piece 39 to the Peer 1007
+2020-12-11 05:49:01: Peer 1001 received an INTERESTED message from Peer 1002
+2020-12-11 05:49:01: Peer 1001 passing UNCHOKE message to the Peer 1002
+2020-12-11 05:49:02: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:49:02: Peer 1001 transferring the piece 30 to the Peer 1009
+2020-12-11 05:49:02: Peer 1001 received a REQUEST message from Peer 1008
+2020-12-11 05:49:02: Peer 1001 transferring the piece 36 to the Peer 1008
+2020-12-11 05:49:02: Peer 1001 received a REQUEST message from Peer 1007
+2020-12-11 05:49:02: Peer 1001 transferring the piece 40 to the Peer 1007
+2020-12-11 05:49:02: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:49:02: Peer 1001 transferring the piece 28 to the Peer 1002
+2020-12-11 05:49:02: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:49:02: Peer 1001 transferring the piece 31 to the Peer 1009
+2020-12-11 05:49:02: Peer 1001 received a REQUEST message from Peer 1008
+2020-12-11 05:49:02: Peer 1001 transferring the piece 37 to the Peer 1008
+2020-12-11 05:49:02: Peer 1001 received a REQUEST message from Peer 1007
+2020-12-11 05:49:02: Peer 1001 transferring the piece 41 to the Peer 1007
+2020-12-11 05:49:02: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:49:02: Peer 1001 transferring the piece 29 to the Peer 1002
+2020-12-11 05:49:03: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:49:03: Peer 1001 transferring the piece 32 to the Peer 1009
+2020-12-11 05:49:03: Peer 1001 received a REQUEST message from Peer 1008
+2020-12-11 05:49:03: Peer 1001 transferring the piece 38 to the Peer 1008
+2020-12-11 05:49:03: Peer 1001 received a REQUEST message from Peer 1007
+2020-12-11 05:49:03: Peer 1001 transferring the piece 42 to the Peer 1007
+2020-12-11 05:49:03: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:49:03: Peer 1001 transferring the piece 30 to the Peer 1002
+2020-12-11 05:49:03: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:49:03: Peer 1001 transferring the piece 33 to the Peer 1009
+2020-12-11 05:49:03: Peer 1001 received a REQUEST message from Peer 1008
+2020-12-11 05:49:03: Peer 1001 transferring the piece 39 to the Peer 1008
+2020-12-11 05:49:03: Peer 1001 received a REQUEST message from Peer 1007
+2020-12-11 05:49:03: Peer 1001 transferring the piece 43 to the Peer 1007
+2020-12-11 05:49:03: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:49:03: Peer 1001 transferring the piece 31 to the Peer 1002
+2020-12-11 05:49:04: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:49:04: Peer 1001 transferring the piece 34 to the Peer 1009
+2020-12-11 05:49:04: Peer 1001 received a REQUEST message from Peer 1008
+2020-12-11 05:49:04: Peer 1001 transferring the piece 40 to the Peer 1008
+2020-12-11 05:49:04: Peer 1001 received a REQUEST message from Peer 1007
+2020-12-11 05:49:04: Peer 1001 transferring the piece 44 to the Peer 1007
+2020-12-11 05:49:04: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:49:04: Peer 1001 transferring the piece 32 to the Peer 1002
+2020-12-11 05:49:04: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:49:04: Peer 1001 transferring the piece 35 to the Peer 1009
+2020-12-11 05:49:04: Peer 1001 received a REQUEST message from Peer 1008
+2020-12-11 05:49:04: Peer 1001 transferring the piece 41 to the Peer 1008
+2020-12-11 05:49:04: Peer 1001 received a REQUEST message from Peer 1007
+2020-12-11 05:49:04: Peer 1001 transferring the piece 45 to the Peer 1007
+2020-12-11 05:49:04: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:49:04: Peer 1001 transferring the piece 33 to the Peer 1002
+2020-12-11 05:49:05: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:49:05: Peer 1001 transferring the piece 36 to the Peer 1009
+2020-12-11 05:49:05: Peer 1001 received a REQUEST message from Peer 1008
+2020-12-11 05:49:05: Peer 1001 transferring the piece 42 to the Peer 1008
+2020-12-11 05:49:05: Peer 1001 received a REQUEST message from Peer 1007
+2020-12-11 05:49:05: Peer 1001 transferring the piece 46 to the Peer 1007
+2020-12-11 05:49:05: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:49:05: Peer 1001 transferring the piece 34 to the Peer 1002
+2020-12-11 05:49:05: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:49:05: Peer 1001 transferring the piece 37 to the Peer 1009
+2020-12-11 05:49:05: Peer 1001 received a REQUEST message from Peer 1008
+2020-12-11 05:49:05: Peer 1001 transferring the piece 43 to the Peer 1008
+2020-12-11 05:49:05: Peer 1001 received a REQUEST message from Peer 1007
+2020-12-11 05:49:05: Peer 1001 transferring the piece 47 to the Peer 1007
+2020-12-11 05:49:05: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:49:05: Peer 1001 transferring the piece 35 to the Peer 1002
+2020-12-11 05:49:06: Peer 1001 picked the neighbours as preferred: 1009, 1008, 1007, 
+2020-12-11 05:49:06: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:49:06: Peer 1001 transferring the piece 38 to the Peer 1009
+2020-12-11 05:49:06: Peer 1001 received a REQUEST message from Peer 1008
+2020-12-11 05:49:06: Peer 1001 transferring the piece 44 to the Peer 1008
+2020-12-11 05:49:06: Peer 1001 received a REQUEST message from Peer 1007
+2020-12-11 05:49:06: Peer 1001 transferring the piece 48 to the Peer 1007
+2020-12-11 05:49:06: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:49:06: Peer 1001 transferring the piece 36 to the Peer 1002
+2020-12-11 05:49:06: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:49:06: Peer 1001 transferring the piece 39 to the Peer 1009
+2020-12-11 05:49:06: Peer 1001 received a REQUEST message from Peer 1008
+2020-12-11 05:49:06: Peer 1001 transferring the piece 45 to the Peer 1008
+2020-12-11 05:49:06: Peer 1001 received a REQUEST message from Peer 1007
+2020-12-11 05:49:06: Peer 1001 transferring the piece 49 to the Peer 1007
+2020-12-11 05:49:06: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:49:06: Peer 1001 transferring the piece 37 to the Peer 1002
+2020-12-11 05:49:07: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:49:07: Peer 1001 transferring the piece 40 to the Peer 1009
+2020-12-11 05:49:07: Peer 1001 received a REQUEST message from Peer 1008
+2020-12-11 05:49:07: Peer 1001 transferring the piece 46 to the Peer 1008
+2020-12-11 05:49:07: Peer 1001 received a REQUEST message from Peer 1007
+2020-12-11 05:49:07: Peer 1001 transferring the piece 50 to the Peer 1007
+2020-12-11 05:49:07: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:49:07: Peer 1001 transferring the piece 38 to the Peer 1002
+2020-12-11 05:49:07: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:49:07: Peer 1001 transferring the piece 41 to the Peer 1009
+2020-12-11 05:49:07: Peer 1001 received a REQUEST message from Peer 1008
+2020-12-11 05:49:07: Peer 1001 transferring the piece 47 to the Peer 1008
+2020-12-11 05:49:07: Peer 1001 received a REQUEST message from Peer 1007
+2020-12-11 05:49:07: Peer 1001 transferring the piece 51 to the Peer 1007
+2020-12-11 05:49:07: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:49:07: Peer 1001 transferring the piece 39 to the Peer 1002
+2020-12-11 05:49:08: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:49:08: Peer 1001 transferring the piece 42 to the Peer 1009
+2020-12-11 05:49:08: Peer 1001 received a REQUEST message from Peer 1008
+2020-12-11 05:49:08: Peer 1001 transferring the piece 48 to the Peer 1008
+2020-12-11 05:49:08: Peer 1001 received a REQUEST message from Peer 1007
+2020-12-11 05:49:08: Peer 1001 transferring the piece 52 to the Peer 1007
+2020-12-11 05:49:08: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:49:08: Peer 1001 transferring the piece 40 to the Peer 1002
+2020-12-11 05:49:08: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:49:08: Peer 1001 transferring the piece 43 to the Peer 1009
+2020-12-11 05:49:08: Peer 1001 received a REQUEST message from Peer 1008
+2020-12-11 05:49:08: Peer 1001 transferring the piece 49 to the Peer 1008
+2020-12-11 05:49:09: Peer 1001 received a REQUEST message from Peer 1007
+2020-12-11 05:49:09: Peer 1001 transferring the piece 53 to the Peer 1007
+2020-12-11 05:49:09: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:49:09: Peer 1001 transferring the piece 41 to the Peer 1002
+2020-12-11 05:49:09: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:49:09: Peer 1001 transferring the piece 44 to the Peer 1009
+2020-12-11 05:49:09: Peer 1001 received a REQUEST message from Peer 1008
+2020-12-11 05:49:09: Peer 1001 transferring the piece 50 to the Peer 1008
+2020-12-11 05:49:09: Peer 1001 received a REQUEST message from Peer 1007
+2020-12-11 05:49:09: Peer 1001 transferring the piece 54 to the Peer 1007
+2020-12-11 05:49:09: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:49:09: Peer 1001 transferring the piece 42 to the Peer 1002
+2020-12-11 05:49:10: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:49:10: Peer 1001 transferring the piece 45 to the Peer 1009
+2020-12-11 05:49:10: Peer 1001 received a REQUEST message from Peer 1008
+2020-12-11 05:49:10: Peer 1001 transferring the piece 51 to the Peer 1008
+2020-12-11 05:49:10: Peer 1001 received a REQUEST message from Peer 1007
+2020-12-11 05:49:10: Peer 1001 transferring the piece 55 to the Peer 1007
+2020-12-11 05:49:10: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:49:10: Peer 1001 transferring the piece 43 to the Peer 1002
+2020-12-11 05:49:10: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:49:10: Peer 1001 transferring the piece 46 to the Peer 1009
+2020-12-11 05:49:10: Peer 1001 received a REQUEST message from Peer 1008
+2020-12-11 05:49:10: Peer 1001 transferring the piece 52 to the Peer 1008
+2020-12-11 05:49:10: Peer 1001 received a REQUEST message from Peer 1007
+2020-12-11 05:49:10: Peer 1001 transferring the piece 56 to the Peer 1007
+2020-12-11 05:49:10: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:49:10: Peer 1001 transferring the piece 44 to the Peer 1002
+2020-12-11 05:49:11: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:49:11: Peer 1001 transferring the piece 47 to the Peer 1009
+2020-12-11 05:49:11: Peer 1001 received a REQUEST message from Peer 1008
+2020-12-11 05:49:11: Peer 1001 transferring the piece 53 to the Peer 1008
+2020-12-11 05:49:11: Peer 1001 received a REQUEST message from Peer 1007
+2020-12-11 05:49:11: Peer 1001 transferring the piece 57 to the Peer 1007
+2020-12-11 05:49:11: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:49:11: Peer 1001 transferring the piece 45 to the Peer 1002
+2020-12-11 05:49:11: Peer 1001 picked the neighbours as preferred: 1009, 1008, 1007, 
+2020-12-11 05:49:11: Peer 1001 setting the optimistically unchoked neighbor to 1004
+2020-12-11 05:49:11: Peer 1001 is passing UNCHOKE message to the remote Peer 1004
+2020-12-11 05:49:11: Peer 1001 passing a HAVE message to the Peer 1004
+2020-12-11 05:49:11: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:49:11: Peer 1001 transferring the piece 48 to the Peer 1009
+2020-12-11 05:49:11: Peer 1001 received a REQUEST message from Peer 1008
+2020-12-11 05:49:11: Peer 1001 transferring the piece 54 to the Peer 1008
+2020-12-11 05:49:11: Peer 1001 received a REQUEST message from Peer 1007
+2020-12-11 05:49:11: Peer 1001 transferring the piece 58 to the Peer 1007
+2020-12-11 05:49:11: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:49:11: Peer 1001 transferring the piece 46 to the Peer 1002
+2020-12-11 05:49:11: Peer 1001 passing CHOKE message to the Peer 1002
+2020-12-11 05:49:12: Peer 1001 received an INTERESTED message from Peer 1004
+2020-12-11 05:49:12: Peer 1001 passing UNCHOKE message to the Peer 1004
+2020-12-11 05:49:12: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:49:12: Peer 1001 transferring the piece 49 to the Peer 1009
+2020-12-11 05:49:12: Peer 1001 received a REQUEST message from Peer 1008
+2020-12-11 05:49:12: Peer 1001 transferring the piece 55 to the Peer 1008
+2020-12-11 05:49:12: Peer 1001 received a REQUEST message from Peer 1007
+2020-12-11 05:49:12: Peer 1001 transferring the piece 59 to the Peer 1007
+2020-12-11 05:49:12: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:49:12: Peer 1001 transferring the piece 45 to the Peer 1004
+2020-12-11 05:49:12: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:49:12: Peer 1001 transferring the piece 50 to the Peer 1009
+2020-12-11 05:49:12: Peer 1001 received a REQUEST message from Peer 1008
+2020-12-11 05:49:12: Peer 1001 transferring the piece 56 to the Peer 1008
+2020-12-11 05:49:12: Peer 1001 received a REQUEST message from Peer 1007
+2020-12-11 05:49:12: Peer 1001 transferring the piece 60 to the Peer 1007
+2020-12-11 05:49:13: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:49:13: Peer 1001 transferring the piece 46 to the Peer 1004
+2020-12-11 05:49:13: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:49:13: Peer 1001 transferring the piece 51 to the Peer 1009
+2020-12-11 05:49:13: Peer 1001 received a REQUEST message from Peer 1008
+2020-12-11 05:49:13: Peer 1001 transferring the piece 57 to the Peer 1008
+2020-12-11 05:49:13: Peer 1001 received a REQUEST message from Peer 1007
+2020-12-11 05:49:13: Peer 1001 transferring the piece 61 to the Peer 1007
+2020-12-11 05:49:13: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:49:13: Peer 1001 transferring the piece 47 to the Peer 1004
+2020-12-11 05:49:13: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:49:13: Peer 1001 transferring the piece 52 to the Peer 1009
+2020-12-11 05:49:13: Peer 1001 received a REQUEST message from Peer 1008
+2020-12-11 05:49:13: Peer 1001 transferring the piece 58 to the Peer 1008
+2020-12-11 05:49:13: Peer 1001 received a REQUEST message from Peer 1007
+2020-12-11 05:49:13: Peer 1001 transferring the piece 62 to the Peer 1007
+2020-12-11 05:49:14: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:49:14: Peer 1001 transferring the piece 48 to the Peer 1004
+2020-12-11 05:49:14: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:49:14: Peer 1001 transferring the piece 53 to the Peer 1009
+2020-12-11 05:49:14: Peer 1001 received a REQUEST message from Peer 1008
+2020-12-11 05:49:14: Peer 1001 transferring the piece 59 to the Peer 1008
+2020-12-11 05:49:14: Peer 1001 received a REQUEST message from Peer 1007
+2020-12-11 05:49:14: Peer 1001 transferring the piece 63 to the Peer 1007
+2020-12-11 05:49:14: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:49:14: Peer 1001 transferring the piece 49 to the Peer 1004
+2020-12-11 05:49:14: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:49:14: Peer 1001 transferring the piece 54 to the Peer 1009
+2020-12-11 05:49:14: Peer 1001 received a REQUEST message from Peer 1008
+2020-12-11 05:49:14: Peer 1001 transferring the piece 60 to the Peer 1008
+2020-12-11 05:49:14: Peer 1001 received a REQUEST message from Peer 1007
+2020-12-11 05:49:14: Peer 1001 transferring the piece 64 to the Peer 1007
+2020-12-11 05:49:15: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:49:15: Peer 1001 transferring the piece 50 to the Peer 1004
+2020-12-11 05:49:15: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:49:15: Peer 1001 transferring the piece 55 to the Peer 1009
+2020-12-11 05:49:15: Peer 1001 received a REQUEST message from Peer 1008
+2020-12-11 05:49:15: Peer 1001 transferring the piece 61 to the Peer 1008
+2020-12-11 05:49:15: Peer 1001 received a REQUEST message from Peer 1007
+2020-12-11 05:49:15: Peer 1001 transferring the piece 65 to the Peer 1007
+2020-12-11 05:49:15: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:49:15: Peer 1001 transferring the piece 51 to the Peer 1004
+2020-12-11 05:49:15: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:49:15: Peer 1001 transferring the piece 56 to the Peer 1009
+2020-12-11 05:49:15: Peer 1001 received a REQUEST message from Peer 1008
+2020-12-11 05:49:15: Peer 1001 transferring the piece 62 to the Peer 1008
+2020-12-11 05:49:15: Peer 1001 received a REQUEST message from Peer 1007
+2020-12-11 05:49:15: Peer 1001 transferring the piece 66 to the Peer 1007
+2020-12-11 05:49:16: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:49:16: Peer 1001 transferring the piece 52 to the Peer 1004
+2020-12-11 05:49:16: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:49:16: Peer 1001 transferring the piece 57 to the Peer 1009
+2020-12-11 05:49:16: Peer 1001 received a REQUEST message from Peer 1008
+2020-12-11 05:49:16: Peer 1001 transferring the piece 63 to the Peer 1008
+2020-12-11 05:49:16: Peer 1001 is passing UNCHOKE message to the remote Peer 1005
+2020-12-11 05:49:16: Peer 1001 passing a HAVE message to the Peer 1005
+2020-12-11 05:49:16: Peer 1001 picked the neighbours as preferred: 1009, 1008, 1005, 
+2020-12-11 05:49:16: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:49:16: Peer 1001 transferring the piece 53 to the Peer 1004
+2020-12-11 05:49:16: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:49:16: Peer 1001 transferring the piece 58 to the Peer 1009
+2020-12-11 05:49:16: Peer 1001 received a REQUEST message from Peer 1008
+2020-12-11 05:49:16: Peer 1001 transferring the piece 64 to the Peer 1008
+2020-12-11 05:49:16: Peer 1001 received an INTERESTED message from Peer 1005
+2020-12-11 05:49:16: Peer 1001 passing UNCHOKE message to the Peer 1005
+2020-12-11 05:49:17: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:49:17: Peer 1001 transferring the piece 54 to the Peer 1004
+2020-12-11 05:49:17: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:49:17: Peer 1001 transferring the piece 59 to the Peer 1009
+2020-12-11 05:49:17: Peer 1001 received a REQUEST message from Peer 1008
+2020-12-11 05:49:17: Peer 1001 transferring the piece 65 to the Peer 1008
+2020-12-11 05:49:17: Peer 1001 received a REQUEST message from Peer 1005
+2020-12-11 05:49:17: Peer 1001 transferring the piece 32 to the Peer 1005
+2020-12-11 05:49:17: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:49:17: Peer 1001 transferring the piece 55 to the Peer 1004
+2020-12-11 05:49:17: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:49:17: Peer 1001 transferring the piece 60 to the Peer 1009
+2020-12-11 05:49:17: Peer 1001 received a REQUEST message from Peer 1008
+2020-12-11 05:49:17: Peer 1001 transferring the piece 66 to the Peer 1008
+2020-12-11 05:49:17: Peer 1001 received a REQUEST message from Peer 1005
+2020-12-11 05:49:17: Peer 1001 transferring the piece 33 to the Peer 1005
+2020-12-11 05:49:18: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:49:18: Peer 1001 transferring the piece 56 to the Peer 1004
+2020-12-11 05:49:18: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:49:18: Peer 1001 transferring the piece 61 to the Peer 1009
+2020-12-11 05:49:18: Peer 1001 received a REQUEST message from Peer 1005
+2020-12-11 05:49:18: Peer 1001 transferring the piece 34 to the Peer 1005
+2020-12-11 05:49:18: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:49:18: Peer 1001 transferring the piece 57 to the Peer 1004
+2020-12-11 05:49:18: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:49:18: Peer 1001 transferring the piece 62 to the Peer 1009
+2020-12-11 05:49:18: Peer 1001 received a REQUEST message from Peer 1005
+2020-12-11 05:49:18: Peer 1001 transferring the piece 35 to the Peer 1005
+2020-12-11 05:49:19: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:49:19: Peer 1001 transferring the piece 58 to the Peer 1004
+2020-12-11 05:49:19: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:49:19: Peer 1001 transferring the piece 63 to the Peer 1009
+2020-12-11 05:49:19: Peer 1001 received a REQUEST message from Peer 1005
+2020-12-11 05:49:19: Peer 1001 transferring the piece 36 to the Peer 1005
+2020-12-11 05:49:19: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:49:19: Peer 1001 transferring the piece 59 to the Peer 1004
+2020-12-11 05:49:19: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:49:19: Peer 1001 transferring the piece 64 to the Peer 1009
+2020-12-11 05:49:19: Peer 1001 received a REQUEST message from Peer 1005
+2020-12-11 05:49:19: Peer 1001 transferring the piece 37 to the Peer 1005
+2020-12-11 05:49:20: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:49:20: Peer 1001 transferring the piece 60 to the Peer 1004
+2020-12-11 05:49:20: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:49:20: Peer 1001 transferring the piece 65 to the Peer 1009
+2020-12-11 05:49:20: Peer 1001 received a REQUEST message from Peer 1005
+2020-12-11 05:49:20: Peer 1001 transferring the piece 38 to the Peer 1005
+2020-12-11 05:49:20: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:49:20: Peer 1001 transferring the piece 61 to the Peer 1004
+2020-12-11 05:49:20: Peer 1001 received a REQUEST message from Peer 1009
+2020-12-11 05:49:20: Peer 1001 transferring the piece 66 to the Peer 1009
+2020-12-11 05:49:20: Peer 1001 received a REQUEST message from Peer 1005
+2020-12-11 05:49:20: Peer 1001 transferring the piece 39 to the Peer 1005
+2020-12-11 05:49:21: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:49:21: Peer 1001 transferring the piece 62 to the Peer 1004
+2020-12-11 05:49:21: Peer 1001 received a REQUEST message from Peer 1005
+2020-12-11 05:49:21: Peer 1001 transferring the piece 40 to the Peer 1005
+2020-12-11 05:49:21: Peer 1001 is passing UNCHOKE message to the remote Peer 1003
+2020-12-11 05:49:21: Peer 1001 passing a HAVE message to the Peer 1003
+2020-12-11 05:49:21: Peer 1001 picked the neighbours as preferred: 1005, 1004, 1003, 
+2020-12-11 05:49:21: Peer 1001 setting the optimistically unchoked neighbor to 1002
+2020-12-11 05:49:21: Peer 1001 is passing UNCHOKE message to the remote Peer 1002
+2020-12-11 05:49:21: Peer 1001 passing a HAVE message to the Peer 1002
+2020-12-11 05:49:21: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:49:21: Peer 1001 transferring the piece 63 to the Peer 1004
+2020-12-11 05:49:21: Peer 1001 received an INTERESTED message from Peer 1003
+2020-12-11 05:49:21: Peer 1001 passing UNCHOKE message to the Peer 1003
+2020-12-11 05:49:21: Peer 1001 received a REQUEST message from Peer 1005
+2020-12-11 05:49:21: Peer 1001 transferring the piece 41 to the Peer 1005
+2020-12-11 05:49:22: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:49:22: Peer 1001 transferring the piece 64 to the Peer 1004
+2020-12-11 05:49:22: Peer 1001 received an INTERESTED message from Peer 1002
+2020-12-11 05:49:22: Peer 1001 passing UNCHOKE message to the Peer 1002
+2020-12-11 05:49:22: Peer 1001 received a REQUEST message from Peer 1003
+2020-12-11 05:49:22: Peer 1001 transferring the piece 41 to the Peer 1003
+2020-12-11 05:49:22: Peer 1001 received a REQUEST message from Peer 1005
+2020-12-11 05:49:22: Peer 1001 transferring the piece 42 to the Peer 1005
+2020-12-11 05:49:22: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:49:22: Peer 1001 transferring the piece 65 to the Peer 1004
+2020-12-11 05:49:22: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:49:22: Peer 1001 transferring the piece 46 to the Peer 1002
+2020-12-11 05:49:22: Peer 1001 received a REQUEST message from Peer 1003
+2020-12-11 05:49:22: Peer 1001 transferring the piece 42 to the Peer 1003
+2020-12-11 05:49:22: Peer 1001 received a REQUEST message from Peer 1005
+2020-12-11 05:49:22: Peer 1001 transferring the piece 43 to the Peer 1005
+2020-12-11 05:49:23: Peer 1001 received a REQUEST message from Peer 1004
+2020-12-11 05:49:23: Peer 1001 transferring the piece 66 to the Peer 1004
+2020-12-11 05:49:23: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:49:23: Peer 1001 transferring the piece 47 to the Peer 1002
+2020-12-11 05:49:23: Peer 1001 received a REQUEST message from Peer 1003
+2020-12-11 05:49:23: Peer 1001 transferring the piece 43 to the Peer 1003
+2020-12-11 05:49:23: Peer 1001 received a REQUEST message from Peer 1005
+2020-12-11 05:49:23: Peer 1001 transferring the piece 44 to the Peer 1005
+2020-12-11 05:49:23: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:49:23: Peer 1001 transferring the piece 48 to the Peer 1002
+2020-12-11 05:49:23: Peer 1001 received a REQUEST message from Peer 1003
+2020-12-11 05:49:23: Peer 1001 transferring the piece 44 to the Peer 1003
+2020-12-11 05:49:23: Peer 1001 received a REQUEST message from Peer 1005
+2020-12-11 05:49:23: Peer 1001 transferring the piece 45 to the Peer 1005
+2020-12-11 05:49:24: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:49:24: Peer 1001 transferring the piece 49 to the Peer 1002
+2020-12-11 05:49:24: Peer 1001 received a REQUEST message from Peer 1003
+2020-12-11 05:49:24: Peer 1001 transferring the piece 45 to the Peer 1003
+2020-12-11 05:49:24: Peer 1001 received a REQUEST message from Peer 1005
+2020-12-11 05:49:24: Peer 1001 transferring the piece 46 to the Peer 1005
+2020-12-11 05:49:24: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:49:24: Peer 1001 transferring the piece 50 to the Peer 1002
+2020-12-11 05:49:24: Peer 1001 received a REQUEST message from Peer 1003
+2020-12-11 05:49:24: Peer 1001 transferring the piece 46 to the Peer 1003
+2020-12-11 05:49:24: Peer 1001 received a REQUEST message from Peer 1005
+2020-12-11 05:49:24: Peer 1001 transferring the piece 47 to the Peer 1005
+2020-12-11 05:49:25: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:49:25: Peer 1001 transferring the piece 51 to the Peer 1002
+2020-12-11 05:49:25: Peer 1001 received a REQUEST message from Peer 1003
+2020-12-11 05:49:25: Peer 1001 transferring the piece 47 to the Peer 1003
+2020-12-11 05:49:25: Peer 1001 received a REQUEST message from Peer 1005
+2020-12-11 05:49:25: Peer 1001 transferring the piece 48 to the Peer 1005
+2020-12-11 05:49:25: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:49:25: Peer 1001 transferring the piece 52 to the Peer 1002
+2020-12-11 05:49:25: Peer 1001 received a REQUEST message from Peer 1003
+2020-12-11 05:49:25: Peer 1001 transferring the piece 48 to the Peer 1003
+2020-12-11 05:49:25: Peer 1001 received a REQUEST message from Peer 1005
+2020-12-11 05:49:25: Peer 1001 transferring the piece 49 to the Peer 1005
+2020-12-11 05:49:26: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:49:26: Peer 1001 transferring the piece 53 to the Peer 1002
+2020-12-11 05:49:26: Peer 1001 received a REQUEST message from Peer 1003
+2020-12-11 05:49:26: Peer 1001 transferring the piece 49 to the Peer 1003
+2020-12-11 05:49:26: Peer 1001 received a REQUEST message from Peer 1005
+2020-12-11 05:49:26: Peer 1001 transferring the piece 50 to the Peer 1005
+2020-12-11 05:49:26: Peer 1001 picked the neighbours as preferred: 1002, 
+2020-12-11 05:49:26: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:49:26: Peer 1001 transferring the piece 54 to the Peer 1002
+2020-12-11 05:49:26: Peer 1001 received a REQUEST message from Peer 1003
+2020-12-11 05:49:26: Peer 1001 transferring the piece 50 to the Peer 1003
+2020-12-11 05:49:26: Peer 1001 received a REQUEST message from Peer 1005
+2020-12-11 05:49:26: Peer 1001 transferring the piece 51 to the Peer 1005
+2020-12-11 05:49:27: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:49:27: Peer 1001 transferring the piece 55 to the Peer 1002
+2020-12-11 05:49:27: Peer 1001 received a REQUEST message from Peer 1003
+2020-12-11 05:49:27: Peer 1001 transferring the piece 51 to the Peer 1003
+2020-12-11 05:49:27: Peer 1001 received a REQUEST message from Peer 1005
+2020-12-11 05:49:27: Peer 1001 transferring the piece 52 to the Peer 1005
+2020-12-11 05:49:27: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:49:27: Peer 1001 transferring the piece 56 to the Peer 1002
+2020-12-11 05:49:27: Peer 1001 received a REQUEST message from Peer 1003
+2020-12-11 05:49:27: Peer 1001 transferring the piece 52 to the Peer 1003
+2020-12-11 05:49:27: Peer 1001 received a REQUEST message from Peer 1005
+2020-12-11 05:49:27: Peer 1001 transferring the piece 53 to the Peer 1005
+2020-12-11 05:49:28: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:49:28: Peer 1001 transferring the piece 57 to the Peer 1002
+2020-12-11 05:49:28: Peer 1001 received a REQUEST message from Peer 1003
+2020-12-11 05:49:28: Peer 1001 transferring the piece 53 to the Peer 1003
+2020-12-11 05:49:28: Peer 1001 received a REQUEST message from Peer 1005
+2020-12-11 05:49:28: Peer 1001 transferring the piece 54 to the Peer 1005
+2020-12-11 05:49:28: Peer 1001 received a REQUEST message from Peer 1005
+2020-12-11 05:49:28: Peer 1001 transferring the piece 55 to the Peer 1005
+2020-12-11 05:49:28: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:49:28: Peer 1001 transferring the piece 58 to the Peer 1002
+2020-12-11 05:49:28: Peer 1001 received a REQUEST message from Peer 1003
+2020-12-11 05:49:28: Peer 1001 transferring the piece 54 to the Peer 1003
+2020-12-11 05:49:29: Peer 1001 received a REQUEST message from Peer 1005
+2020-12-11 05:49:29: Peer 1001 transferring the piece 56 to the Peer 1005
+2020-12-11 05:49:29: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:49:29: Peer 1001 transferring the piece 59 to the Peer 1002
+2020-12-11 05:49:29: Peer 1001 received a REQUEST message from Peer 1003
+2020-12-11 05:49:29: Peer 1001 transferring the piece 55 to the Peer 1003
+2020-12-11 05:49:29: Peer 1001 received a REQUEST message from Peer 1005
+2020-12-11 05:49:29: Peer 1001 transferring the piece 57 to the Peer 1005
+2020-12-11 05:49:29: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:49:29: Peer 1001 transferring the piece 60 to the Peer 1002
+2020-12-11 05:49:29: Peer 1001 received a REQUEST message from Peer 1003
+2020-12-11 05:49:29: Peer 1001 transferring the piece 56 to the Peer 1003
+2020-12-11 05:49:30: Peer 1001 received a REQUEST message from Peer 1005
+2020-12-11 05:49:30: Peer 1001 transferring the piece 58 to the Peer 1005
+2020-12-11 05:49:30: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:49:30: Peer 1001 transferring the piece 61 to the Peer 1002
+2020-12-11 05:49:30: Peer 1001 received a REQUEST message from Peer 1003
+2020-12-11 05:49:30: Peer 1001 transferring the piece 57 to the Peer 1003
+2020-12-11 05:49:30: Peer 1001 received a REQUEST message from Peer 1005
+2020-12-11 05:49:30: Peer 1001 transferring the piece 59 to the Peer 1005
+2020-12-11 05:49:30: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:49:30: Peer 1001 transferring the piece 62 to the Peer 1002
+2020-12-11 05:49:30: Peer 1001 received a REQUEST message from Peer 1003
+2020-12-11 05:49:30: Peer 1001 transferring the piece 58 to the Peer 1003
+2020-12-11 05:49:31: Peer 1001 received a REQUEST message from Peer 1005
+2020-12-11 05:49:31: Peer 1001 transferring the piece 60 to the Peer 1005
+2020-12-11 05:49:31: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:49:31: Peer 1001 transferring the piece 63 to the Peer 1002
+2020-12-11 05:49:31: Peer 1001 received a REQUEST message from Peer 1003
+2020-12-11 05:49:31: Peer 1001 transferring the piece 59 to the Peer 1003
+2020-12-11 05:49:31: Peer 1001 received a REQUEST message from Peer 1005
+2020-12-11 05:49:31: Peer 1001 transferring the piece 61 to the Peer 1005
+2020-12-11 05:49:31: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:49:31: Peer 1001 transferring the piece 64 to the Peer 1002
+2020-12-11 05:49:31: Peer 1001 received a REQUEST message from Peer 1003
+2020-12-11 05:49:31: Peer 1001 transferring the piece 60 to the Peer 1003
+2020-12-11 05:49:32: Peer 1001 received a REQUEST message from Peer 1005
+2020-12-11 05:49:32: Peer 1001 transferring the piece 62 to the Peer 1005
+2020-12-11 05:49:32: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:49:32: Peer 1001 transferring the piece 65 to the Peer 1002
+2020-12-11 05:49:32: Peer 1001 received a REQUEST message from Peer 1003
+2020-12-11 05:49:32: Peer 1001 transferring the piece 61 to the Peer 1003
+2020-12-11 05:49:32: Peer 1001 received a REQUEST message from Peer 1005
+2020-12-11 05:49:32: Peer 1001 transferring the piece 63 to the Peer 1005
+2020-12-11 05:49:32: Peer 1001 received a REQUEST message from Peer 1002
+2020-12-11 05:49:32: Peer 1001 transferring the piece 66 to the Peer 1002
+2020-12-11 05:49:32: Peer 1001 received a REQUEST message from Peer 1003
+2020-12-11 05:49:32: Peer 1001 transferring the piece 62 to the Peer 1003
+2020-12-11 05:49:33: Peer 1001 received a REQUEST message from Peer 1005
+2020-12-11 05:49:33: Peer 1001 transferring the piece 64 to the Peer 1005
+2020-12-11 05:49:33: Peer 1001 received a REQUEST message from Peer 1003
+2020-12-11 05:49:33: Peer 1001 transferring the piece 63 to the Peer 1003
+2020-12-11 05:49:33: Peer 1001 received a REQUEST message from Peer 1005
+2020-12-11 05:49:33: Peer 1001 transferring the piece 65 to the Peer 1005
+2020-12-11 05:49:33: Peer 1001 received a REQUEST message from Peer 1003
+2020-12-11 05:49:33: Peer 1001 transferring the piece 64 to the Peer 1003
+2020-12-11 05:49:34: Peer 1001 received a REQUEST message from Peer 1005
+2020-12-11 05:49:34: Peer 1001 transferring the piece 66 to the Peer 1005
+2020-12-11 05:49:34: Peer 1001 received a REQUEST message from Peer 1003
+2020-12-11 05:49:34: Peer 1001 transferring the piece 65 to the Peer 1003
+2020-12-11 05:49:34: Peer 1001 received a REQUEST message from Peer 1003
+2020-12-11 05:49:34: Peer 1001 transferring the piece 66 to the Peer 1003
+2020-12-11 05:49:36: Peer All peers have finished downloading the file.
+2020-12-11 05:49:38: Peer 1001 Peer process will exit now
